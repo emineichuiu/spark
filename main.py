@@ -82,3 +82,5 @@ CMD ["python", "main"]
 # PR Merge: 2025-10-16 - enhancement/merge-4073
 
 # PR Merge: 2025-10-16 - fix/merge-3899
+
+# PR Merge: 2025-10-16 - docs/merge-1782
