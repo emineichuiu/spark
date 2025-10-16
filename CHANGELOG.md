@@ -47,3 +47,5 @@ Generated documentation for spark.
 # Touch update: 1760617536
 
 # PR Merge: 2025-10-16 - fix/merge-2194
+
+# PR Merge: 2025-10-16 - fix/merge-3497
